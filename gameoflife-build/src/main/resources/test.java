@@ -9,5 +9,5 @@
  * @author Strike
  */
 public class test {
-    
+    //Dit is een super nuttige class
 }
